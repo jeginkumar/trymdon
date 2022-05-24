@@ -1,0 +1,10 @@
+
+
+
+
+
+
+workflows:
+  hello-world:
+    name: Build for ios
+    scripts: flutter build ios
