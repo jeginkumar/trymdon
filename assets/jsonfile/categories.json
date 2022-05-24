@@ -1,0 +1,25 @@
+{
+    "categorylist": [
+
+        {
+            "caname": "Doctor out-patient"
+        },
+        {
+            "caname": "Scan center"
+        },
+        {
+            "caname": "Saloon & Spa"
+        },
+        {
+            "caname": "Physiotherapy"
+        },
+        {
+            "caname": "Dietician & nutritionist"
+        },
+        {
+            "caname": "Pet care"
+        }
+
+
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "accountdetails":[
+                
+                {
+                "services":"Consultation",
+                "slots":"3"
+                },
+                 
+                {
+                    "services":"Vaccination"
+                    },
+                     
+                {
+                    "services":"Consultation"
+                    },
+                     
+                {
+                    "services":"Consultation"
+                    },
+                     
+                {
+                    "services":"Consultation"
+                    },
+                     
+                {
+                    "services":"Consultation"
+                    },
+                     
+                {
+                    "services":"Consultation"
+                    },
+                     
+                {
+                    "services":"Consultation"
+                    },
+                     
+                {
+                    "services":"Consultation"
+                }
+    ]
+}
+                
+               
