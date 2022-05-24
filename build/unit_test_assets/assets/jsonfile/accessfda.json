@@ -1,0 +1,25 @@
+{
+    "controlaccess": [
+        {
+            "nameofscreens": "FDA dashboard"
+        },
+        {
+            "nameofscreens": "Booking screen"
+        },
+        {
+            "nameofscreens": "Booking status"
+        },
+        {
+            "nameofscreens": "Trym'd revenue"
+        },
+        {
+            "nameofscreens": "Attendance"
+        },
+        {
+            "nameofscreens": "Make payment"
+        },
+        {
+            "nameofscreens": "Add Prescription"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "servicelist": [
+        {
+            "nameofservice": "Consultation"
+        },
+        {
+            "nameofservice": "Vaccination"
+        },
+        {
+            "nameofservice": "Help"
+        },
+        {
+            "nameofservice": "Surgery"
+        }
+       
+    ]
+}

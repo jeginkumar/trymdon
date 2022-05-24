@@ -1,0 +1,32 @@
+{
+    "bookingtrymd": {
+        "chartData": {
+            "btrymd": 50.0,
+            "bavailable": 25.0,
+            "bwalkin": 15.0,
+            "bcancel": 10.0
+        },
+
+        "bptrymd":"50",
+        "bpavailable":"25",
+        "bpwalkin":"15",
+        "bpcancel":"11",
+        "dtrymd": "40",
+        "dwalk": "32",
+        "davailable": "18",
+        "dcancel": "12",
+        "bookingslot": "Tomorrow",
+        "weekly": "280",
+        "today": "67",
+        "vacper": 0.2,
+        "vacno": "20",
+        "follper": 0.3,
+        "follno": "30",
+        "consper": 0.5,
+        "consno": "50",
+        "injeper": 0.1,
+        "injeno": "11",
+        "date": "09 JULY 2021",
+        "boverall": "63"
+    }
+}

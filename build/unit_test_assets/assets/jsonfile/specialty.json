@@ -1,0 +1,88 @@
+{
+    "specialtylist":[
+                
+                {
+                "spename":"Allergy &\nimmunology",
+                "speimage":"assets/images/allergy&immunology.png"
+                },
+                {
+                 "spename":"Anesthesiology",
+                 "speimage":"assets/images/anesthesiology.png"
+                },
+                {
+                    "spename":"dermatalogy &\ncosmetology" ,
+                    "speimage":"assets/images/dermatalogy & cosmetology.png"
+              },
+              {
+                "spename":"Radiology" ,
+                "speimage":"assets/images/radiology.png"
+          },
+          {
+            "spename":"Emergency\nmedicine" ,
+            "speimage":"assets/images/emergency medicine.png"
+      },
+      {
+        "spename":"Sports\nmedicine" ,
+        "speimage":"assets/images/sports medicine.png"
+  },
+  {
+    "spename":"Geriatrics",
+    "speimage":"assets/images/geriatrics.png"
+    },
+    {
+     "spename":"Genetics" ,
+     "speimage":"assets/images/genetics.png"
+    },
+    {
+        "spename":"Neurology" ,
+        "speimage":"assets/images/Neurology.png"
+  },
+  {
+    "spename":"Neonatology" ,
+    "speimage":"assets/images/neonatology.png"
+},
+{
+"spename":"Opthalmology" ,
+"speimage":"assets/images/opthalmology.png"
+},
+{
+"spename":"Pathology" ,
+"speimage":"assets/images/pathology.png"
+},
+{
+  "spename":"Pediatrics",
+  "speimage":"assets/images/pediatrics.png"
+  },
+  {
+   "spename":"physical medicine\n   & rehabilitation",
+   "speimage":"assets/images/physical medicine & rehabilitation.png" 
+  },
+  {
+      "spename":"Psychiatry" ,
+      "speimage":"assets/images/psychiatry.png"
+},
+{
+  "spename":"Oncology" ,
+  "speimage":"assets/images/Oncology.png"
+},
+{
+"spename":"General\nsurgery" ,
+"speimage":"assets/images/general surgery.png"
+},
+{
+"spename":"Urology" ,
+"speimage":"assets/images/urology.png"
+},
+{
+  "spename":"Ear,Nose,Throat,\n   Head & Neck",
+  "speimage":"assets/images/ear, nose, throat, head & neck.png"
+  },
+  {
+   "spename":"Cardiology" ,
+   "speimage":"assets/images/Cardiology.png"
+  }
+  
+
+
+    ]        
+}

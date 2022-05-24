@@ -1,0 +1,43 @@
+{
+    "status":true,
+    "data":{
+        "daily_attendence":{
+            "status":"absent",
+         "date":"17 Feb 2022",
+        "time":"12:00 PM"
+        },
+        "today_booking":{
+            "trym'd_book":60.0,
+            "Walkin":20.0,
+            "Available":10.0,
+            "cancelation":10.0
+        },
+        "current_appointment":{
+            "name":"Gowtham",
+            "service":"Consulation",
+            "appoint_time":"12:10 AM - 12.20 PM",
+            "note":"Delayed by 5 mins"
+        },
+        "today_revenue":{
+            "trym'd_revenue":60.0,
+            "Walkin_revnue":40.0
+        },
+        "upcoming_appointment":[{
+            "name":"Gowtham",
+            "service":"Consulation",
+            "appoint_time":"12:10 AM - 12.20 PM",
+            "note":"Delayed by 5 mins"
+        },{
+            "name":"Gowtham1",
+            "service":"Vaccination",
+            "appoint_time":"12:10 AM - 12.20 PM",
+            "note":"Delayed by 5 mins"
+        },{
+            "name":"Gowtham2",
+            "service":"Consulation",
+            "appoint_time":"12:10 AM - 12.20 PM",
+            "note":"Delayed by 5 mins"
+        }
+    ]
+    }
+}

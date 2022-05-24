@@ -5,10 +5,10 @@
 
 // @dart = 2.7
 
-// When `package:trymd_partner/main.dart` defines `main`, that definition is shadowed by the definition below.
-export 'package:trymd_partner/main.dart';
+// When `file:///C:/Users/jegin/AppData/Local/Temp/flutter_tools.d80f7725/flutter_test_listener.80f7a76c/listener.dart` defines `main`, that definition is shadowed by the definition below.
+export 'file:///C:/Users/jegin/AppData/Local/Temp/flutter_tools.d80f7725/flutter_test_listener.80f7a76c/listener.dart';
 
-import 'package:trymd_partner/main.dart' as entrypoint;
+import 'file:///C:/Users/jegin/AppData/Local/Temp/flutter_tools.d80f7725/flutter_test_listener.80f7a76c/listener.dart' as entrypoint;
 import 'dart:io'; // flutter_ignore: dart_io_import.
 import 'package:path_provider_android/path_provider_android.dart';
 import 'package:path_provider_ios/path_provider_ios.dart';

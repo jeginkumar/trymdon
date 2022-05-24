@@ -1,0 +1,24 @@
+{
+    "bookingtrymd": {
+        "chartData": {
+            "rtrymd": 59.95,
+            "rwalkin": 40.5
+                   },
+        "rptrymd":"59",
+        "rpwalkin":"40",
+               "dtrymd": "59000",
+        "dwalk": "32000",
+               "servicedetails": "Tomorrow",
+        "serrevenue": "2,00,000",
+        "today": "67",
+        "vacper": 0.2,
+        "vacno": "$19000",
+        "follper": 0.3,
+        "follno": "$29000",
+        "consper": 0.5,
+        "consno": "$9000",
+        "injeper": 0.1,
+        "injeno": "$11000",
+        "date": "09 JULY 2021"
+           }
+}
