@@ -1,10 +1,33 @@
+environment:
+  groups:             # Define your environment variables groups here
+    - keystore_credentials
+    - app_store_credentials
+    - manual_cert_credentials
+    - firebase_credentials
+    - other
+    
+    # Android code signing - Add the keystore_credentials group environment variables in Codemagic UI (either in Application/Team variables)
+    # CM_KEYSTORE
+    # CM_KEYSTORE_PASSWORD
+    # CM_KEY_PASSWORD
+    # CM_KEY_ALIAS
 
+    # iOS automatic code signing - Add the app_store_credentials group environment variables in Codemagic UI (either in Application/Team variables)
+    # APP_STORE_CONNECT_ISSUER_ID
+    # APP_STORE_CONNECT_KEY_IDENTIFIER
+    # APP_STORE_CONNECT_PRIVATE_KEY
+    # CERTIFICATE_PRIVATE_KEY
 
+    # iOS manual code signing - Add the manual_cert_credentials group environment variables in Codemagic UI (either in Application/Team variables)
+    # CM_CERTIFICATE
+    # CM_CERTIFICATE_PASSWORD
+    # CM_PROVISIONING_PROFILE
 
-
-
-
-workflows:
-  hello-world:
-    name: Build for ios
-    scripts: flutter build ios
+    # Firebase secrets - Add the firebase_credentials group environment variables in Codemagic UI (either in Application/Team variables
+    # ANDROID_FIREBASE_SECRET
+    # IOS_FIREBASE_SECRET
+    
+    # Add the other group environment variables in Codemagic UI (either in Application/Team variables
+    # SSH_KEY_GITHUB     # defining an ssh key used to download private dependencies
+    # CREDENTIALS        # publishing a package to pub.dev
+    # APP_CENTER_TOKEN   # publishing an application to App Center
